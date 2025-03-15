@@ -1,8 +1,5 @@
 # KnowledgeBaseSA
 
-# Survival Система Управления Знаниями в Obsidian
-==========================
-
 Survival Analysis knowledge base for article review and generating research ideas in Obsidian.
 
 ## Description
