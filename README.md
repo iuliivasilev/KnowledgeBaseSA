@@ -61,7 +61,7 @@ vault/
    Title:
    Link:
    Year:
-   Tags:
+   Direction:
    Code:
    Novelty:
    Overview:
@@ -82,7 +82,7 @@ vault/
 
 ### Article review rules
 
-1. Each article should have fields: "Title", "Link", "Year", "Tags", "Code", "Novelty", "Overview", "Datasets", "Metrics".
+1. Each article should have fields: "Title", "Link", "Year", "Direction", "Code", "Novelty", "Overview", "Datasets", "Metrics".
 2. Use markdown
 
 ## Сontribution
