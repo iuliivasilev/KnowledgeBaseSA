@@ -1,19 +1,8 @@
-...
 
-Main tasks:
-1. [[Terminal Event]]
-2. [[Competing Risks]]
+Main [[Tasks]]
 
-Feature space:
-1. [[Time Invariant]]
-2. [[Time Varying]]
+[[Feature space]]
 
 Methods:
-1. [[Statistical]]:
-	1. [[Nonparametric]]
-	2. [[Semi-parametric]]
-	3. [[Parametric]]
-2. [[Machine learning]]:
-	1. [[Survival Trees]]
-	2. [[Ensembles]]
-	3. 
+1. [[Statistical]]
+2. [[Machine learning]]
