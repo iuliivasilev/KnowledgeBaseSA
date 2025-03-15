@@ -5,13 +5,13 @@ Year: 2020
 Direction:
   - "[[Survival Trees]]"
 Code: Сравнение на R  (rpart, ctree), кода нет
-Novelty: true
+Type: Research
 Overview: +-
 Datasets: 
 Metrics:
-  - CoxPartialLikelihoodScore
-  - CI
-  - IBS
+  - "[[CoxPartialLL]]"
+  - "[[CI]]"
+  - "[[IBS]]"
 Reviewer: IuliiVasilev
 ---
 

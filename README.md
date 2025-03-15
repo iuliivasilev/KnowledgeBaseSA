@@ -56,20 +56,22 @@ vault/
 
 1. Create new file in `Publications/`
 2. Add header:
-   ```markdown
-   ---
-   Title:
-   Link:
-   Year:
-   Direction:
-   Code:
-   Novelty:
-   Overview:
-   Datasets:
-   Metrics:
-   Reviewer:
-   ---
-   ```
+```markdown
+---
+Title: 
+Link: "[]()"
+Year: 
+Direction:
+  - ""
+Code: 
+Type: 
+Overview:
+Datasets: 
+Metrics:
+  - 
+Reviewer:
+---
+```
 
 ### Idea development
 
