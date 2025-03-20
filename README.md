@@ -20,7 +20,7 @@ vault/
 │   ├── Articles/
 │   ├── Code/
 │   ├── Data/
-│   ├── Sources/
+│   ├── Repository/
 ├── Thesaurus/
 │   ├── Survival Analysis/
 │   ├── Tasks/
@@ -28,6 +28,11 @@ vault/
 │   ├── Feature space/
 ├── Thoughts/
 │   ├── Problems/
+├── Summary/
+│   ├── Datasets
+│   ├── Need to review
+│   ├── Reviewed articles
+├── src/
 └── ResearchPlans/
     ├── drafts/
     └── outlines/
@@ -55,7 +60,7 @@ vault/
 ### Papers review
 
 1. Create new file in `Publications/`
-2. Add header:
+2. Add header from template "Article":
 ```markdown
 ---
 Title: 
@@ -70,6 +75,7 @@ Datasets:
 Metrics:
   - 
 Reviewer:
+Source:
 ---
 ```
 
@@ -84,7 +90,7 @@ Reviewer:
 
 ### Article review rules
 
-1. Each article should have fields: "Title", "Link", "Year", "Direction", "Code", "Novelty", "Overview", "Datasets", "Metrics".
+1. Each article should have fields: "Title", "Link", "Year", "Direction", "Code", "Novelty", "Overview", "Datasets", "Metrics", "Source" (Journal or Site).
 2. Use markdown
 
 ## Сontribution

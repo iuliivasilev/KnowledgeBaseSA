@@ -2,10 +2,8 @@
 Title: 
 Link: "[Link]()"
 Year: 
-Observations:
+Observations: 
 Features: 
-Year: 
 Direction: 
-Reviewer: 
-Source:
+Reviewer:
 ---
