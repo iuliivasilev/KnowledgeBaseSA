@@ -2,12 +2,10 @@
 Title: 
 Link: "[Link]()"
 Year: 
+Observations:
+Features: 
+Year: 
 Direction: 
-Code: 
-Type: 
-Overview: 
-Datasets: 
-Metrics: 
 Reviewer: 
 Source:
 ---
