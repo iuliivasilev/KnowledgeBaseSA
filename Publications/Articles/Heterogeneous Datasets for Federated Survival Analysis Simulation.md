@@ -16,7 +16,7 @@ Datasets:
 Metrics:
   - Heterogeneity score
 Reviewer: IuliiVasilev
-Source: arXiv
+Source: ACM/SPEC International Conference on Performance Engineering
 ---
 ### Тема исследования
 Разработка методов генерации реалистичных разнородных (non-IID) наборов данных для симуляции федеративного обучения в задачах анализа выживаемости.
