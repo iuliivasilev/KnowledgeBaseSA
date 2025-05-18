@@ -26,7 +26,7 @@ jobs:
     - name: Export Obsidian Vault to HTML
       run: |
         mkdir -p output
-        obsidian-export . output --base-url /KnowledgeBaseSA/
+        obsidian-export . output
 
     - name: List output directory
       run: |
