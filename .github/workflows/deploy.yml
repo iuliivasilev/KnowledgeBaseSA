@@ -3,7 +3,7 @@ name: Deploy Obsidian Vault to GitHub Pages
 on:
   push:
     branches:
-      - main  # Замените на вашу основную ветку, если она отличается
+      - main
 
 jobs:
   build:
@@ -26,7 +26,17 @@ jobs:
     - name: Export Obsidian Vault to HTML
       run: |
         mkdir -p output
-        obsidian-export . output
+        obsidian-export . output --base-url /KnowledgeBaseSA/
+
+    - name: List output directory
+      run: |
+        ls -la output
+
+    - name: Upload output as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: exported-site
+        path: output
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
