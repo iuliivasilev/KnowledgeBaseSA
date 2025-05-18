@@ -6,9 +6,10 @@ Year,
 Datasets, 
 Metrics,
 length(file.inlinks) as Signif
-FROM "docs/Publications/Articles"
+FROM "Publications/Articles"
 WHERE Reviewer AND Type = "Survey"
 ```
+
 
 
 **Research:**
@@ -23,6 +24,7 @@ Overview,
 Datasets, 
 Metrics,
 length(file.inlinks) as Signif
-FROM "docs/Publications/Articles"
+FROM "Publications/Articles"
 WHERE Reviewer AND Type = "Research"
 ```
+

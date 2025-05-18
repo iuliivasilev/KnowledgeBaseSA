@@ -3,10 +3,13 @@ TABLE
 Direction, 
 Observations,
 Features
-FROM "docs/Publications/Data"
+FROM "Publications/Data"
 WHERE Link
 SORT Observations
 ```
+
+
+
 
 
 

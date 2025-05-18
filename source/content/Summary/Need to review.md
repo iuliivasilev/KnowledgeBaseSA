@@ -4,9 +4,10 @@ Link,
 Year, 
 Direction,
 Type
-FROM "docs/Publications/Articles"
+FROM "Publications/Articles"
 WHERE !Reviewer
 ```
+
 
 
 
