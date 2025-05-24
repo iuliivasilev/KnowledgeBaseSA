@@ -112,3 +112,9 @@ Successful work! 🚀
 3. [Organizing Academic Projects with Obsidian Tags and Mind Maps](https://effortlessacademic.com/organizing-academic-projects-with-obsidian-tags-and-mind-maps/)
 4. [Obsidian + Dataview: Таблицы](https://habr.com/ru/articles/710356/)
 5. [Dataview in Obsidian: A Beginner’s Guide](https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/#built-in-data)
+6. [Obsidian: автоматизация простыми Шаблонами](https://habr.com/ru/articles/903934/)
+
+Deploy:
+7. [How to publish Obsidian notes with Quartz on GitHub Pages](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages)
+8. [Host your Obsidian notebook on GitHub Pages for free](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1)
+9. [Quartz Syncer Documentation](https://saberzero1.github.io/quartz-syncer-docs/)
