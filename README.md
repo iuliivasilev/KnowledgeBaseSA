@@ -103,3 +103,12 @@ You can:
 3. Offer new features 
 
 Successful work! 🚀
+
+### Sources
+------------------
+
+1. [Obsidian+Github вместо Notion: синхронизация, бекап и версионность (3-в-1)](https://habr.com/ru/articles/843288/)
+2. [Управление личными делами в Obsidian (прототип)](https://habr.com/ru/articles/833654/)
+3. [Organizing Academic Projects with Obsidian Tags and Mind Maps](https://effortlessacademic.com/organizing-academic-projects-with-obsidian-tags-and-mind-maps/)
+4. [Obsidian + Dataview: Таблицы](https://habr.com/ru/articles/710356/)
+5. [Dataview in Obsidian: A Beginner’s Guide](https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/#built-in-data)
