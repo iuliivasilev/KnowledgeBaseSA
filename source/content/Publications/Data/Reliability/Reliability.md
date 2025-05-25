@@ -24,3 +24,6 @@ Other sources:
     Датасет с параметрами качества передачи (QoT) для различных временных точек, с метками, указывающими на отсутствие отказа или наличие мягких отказов, связанных с различными компонентами оптической сети.
 11. [Stuttgart Open Relay Degradation Dataset (SOReDD)](https://darus.uni-stuttgart.de/dataset.xhtml;jsessionid=d819f6307e10c75ac2e826878ef5?persistentId=doi:10.18419/darus-2785)
 	Данные о деградации различных электромеханических реле при различных условиях эксплуатации.
+
+12. !!! [StorageFailurePredictor](https://github.com/EricBorba/StorageFailurePredictor)
+    Репозиторий наборов данных по SSD/HDD с EDA
