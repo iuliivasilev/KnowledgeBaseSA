@@ -1,7 +1,7 @@
 
 SMBU:
 1. (!) Log-rank с конкурирующими событиями
-2. Модели с повторяющимися событиями
+2. (!) Модели с повторяющимися событиями
 3. Генерация событий (SMOTE): может работать как виртуальные события в деревьях (схожее признаковое пространство в листах)
 4. (?) Сравнение Binary/Time-Series и SA
 5. Predictive Maintenance **SCANIA Component X Dataset**
@@ -14,12 +14,21 @@ SMBU:
    **Характеристики объекта:** Данные температурных датчиков, тип батареи, условия эксплуатации
    **Время до события:** 173 цикла с продолжительностью от нескольких дней до 300 дней
    **Особенность:** 68% цензурированных данных, медианное время выживания 255 дней
-7. 
+7. Другие наборы по батареям:
+   - !!! https://github.com/Ruifeng-Tan/BatteryLife
+   - https://github.com/terencetaothucb/TBSI-Sunwoda-Battery-Dataset?ysclid=meww8g83fr279855856
+   - https://data.mendeley.com/datasets/v8k6bsr6tf/1
+   - https://www.kaggle.com/datasets/mystifoe77/nasa-battery-data-cleaned
+1. 
+   
 
 Other:
 1. Детектирование мультимодальности
 2. Мульти-доменность моделей (Hardware, CRM, Medicine)
-3. Beran estimator: https://ieeexplore.ieee.org/abstract/document/10858699
+3. Beran estimator: 
+	1. https://ieeexplore.ieee.org/abstract/document/10858699
+	2. https://www.mdpi.com/1999-4893/17/1/40
+	3. https://arxiv.org/html/2412.07638v1
 4. Получение эмбеддинга из TV и построение Time-Invariant моделей
 5. Модификация CoxPH/AFT с базовой функцией на виртуальных событиях
 6. Построение моделей, устойчивых к дисбалансу (есть наработки)
