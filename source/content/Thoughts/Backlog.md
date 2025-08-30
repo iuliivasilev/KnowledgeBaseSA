@@ -9,12 +9,12 @@ SMBU:
     **Характеристики объекта:** Операционные данные сенсоров, спецификации грузовика, историческая информация о ремонте
     **Время до события:** временные ряды до момента отказа или цензурирования
     **Особенность:** Реальные данные от SCANIA с высоким уровнем цензурирования (до 80%). Trucks from SCANIA: [source](https://researchdata.se/en/catalogue/dataset/2024-34) + [article](https://arxiv.org/html/2401.15199v1)
-6. [**IoT State of Charge Dataset**](https://www.inovex.de/de/blog/survival-analysis-for-state-of-charge-prediction-in-iot-devices/)
+6. (!) [**IoT State of Charge Dataset**](https://www.inovex.de/de/blog/survival-analysis-for-state-of-charge-prediction-in-iot-devices/)
    **Терминальное событие:** Разряд батареи IoT устройства до критического уровня (30% заряда)
    **Характеристики объекта:** Данные температурных датчиков, тип батареи, условия эксплуатации
    **Время до события:** 173 цикла с продолжительностью от нескольких дней до 300 дней
    **Особенность:** 68% цензурированных данных, медианное время выживания 255 дней
-7. Другие наборы по батареям:
+7. (!) Другие наборы по батареям:
    - !!! https://github.com/Ruifeng-Tan/BatteryLife
    - https://github.com/terencetaothucb/TBSI-Sunwoda-Battery-Dataset?ysclid=meww8g83fr279855856
    - https://data.mendeley.com/datasets/v8k6bsr6tf/1
