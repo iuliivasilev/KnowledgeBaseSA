@@ -7,6 +7,7 @@
 2. https://github.com/terencetaothucb/TBSI-Sunwoda-Battery-Dataset?ysclid=meww8g83fr279855856
 3. https://data.mendeley.com/datasets/v8k6bsr6tf/1
 4. https://www.kaggle.com/datasets/mystifoe77/nasa-battery-data-cleaned
+5. (Источник с большим количеством данных) https://calce.umd.edu/battery-data#CX2
 
 План работы:
 1. Введение
