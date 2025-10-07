@@ -2,6 +2,7 @@
 
 1. **Online Retail / Online Retail II (UCI)** — транзакционный датасет UK-ритейлера (SKU, customer id, дата/время). Объём > млн строк.
    Задачи: time-to-next-purchase, time-to-churn, когортный LTV. ([archive.ics.uci.edu](https://archive.ics.uci.edu/ml/datasets/online%2Bretail%2BII "Online Retail II - UCI Machine Learning Repository"))
+   Kaggle: https://www.kaggle.com/datasets/carrie1/ecommerce-data/data
     
 2. **Instacart Market Basket Analysis** — данные покупок/корзин ~3M заказов, >200k пользователей; содержит последовательности заказов по пользователям, интервалы между заказами.
    Задачи: time-to-next-purchase и рекуррентные события. ([Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis "Instacart Market Basket Analysis - Kaggle"))
@@ -20,7 +21,8 @@
     
 7. **Shopify / public order APIs & sample datasets**
 	Задачи: генерация realistic order streams (API / demo datasets для order/payment attempts). Если нужно больше структурированных order-потоков. ([Shopify](https://shopify.dev/docs/api/shopifyql/datasets))
-    
+	
+8. Другие данные: [E-Commerce Sales, Customer & Churn (2009–2011)](https://www.kaggle.com/datasets/aadbutt/e-commerce-sales-customer-and-churn-20092011), [E-commerce Customer Churn & Behavior Analytics](https://www.kaggle.com/datasets/sufya6/e-commerce-customer-churn-prediction), [Telecom Customer Churn Prediction](https://www.kaggle.com/code/ybifoundation/telecom-customer-churn-prediction)
 #### 2) Постановки задач:
 
 - **Time-to-churn** (время от последней покупки/сессии до «оттока» — нужно задать правило оттока, напр. 90/180 дней без покупок?).

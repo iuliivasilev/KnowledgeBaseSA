@@ -3,10 +3,10 @@
 Второстепенная задача: учет истории разрядки батарей при обучении.
 
 Наборы данных:
-1. !!! https://github.com/Ruifeng-Tan/BatteryLife
+1. !!! https://github.com/Ruifeng-Tan/BatteryLife (статья https://arxiv.org/pdf/2502.18807 - прогноз истории вперед на основе MLP, трансформеров, CNN, RNN. В качестве признаков только Current, V, Capacity + сомнительный таргет). Настройка через BatteryLife+BatteryML с кучей ужасного кода. Данные можно переиспользовать, но сложно не ссылаться на такую крупную работу. Данные и описание: (https://github.com/Ruifeng-Tan/BatteryLife/blob/main/assets/Data_structure_description.md, https://zenodo.org/records/15531867)
 2. https://github.com/terencetaothucb/TBSI-Sunwoda-Battery-Dataset?ysclid=meww8g83fr279855856
 3. https://data.mendeley.com/datasets/v8k6bsr6tf/1
-4. https://www.kaggle.com/datasets/mystifoe77/nasa-battery-data-cleaned
+4. https://www.kaggle.com/datasets/mystifoe77/nasa-battery-data-cleaned (нет нормального времени, JN на kaggle абсолютно неверный - прогноз прокси таргета).
 5. (Источник с большим количеством данных) https://calce.umd.edu/battery-data#CX2
 
 План работы:
