@@ -51,6 +51,7 @@
 		- Источник: SCANIA Trucks Component X Dataset (2024).    
 		- Особенности: данные эксплуатации, цензура, время до отказа.
 		- Предобработка: фильтрация, формирование признаков (статических и динамических).
+		- Можно подумать над данными по ПК (https://www.lanl.gov/engage/organizations/aldsct/hpc/usrc/data и https://ftp.pdl.cmu.edu/pub/datasets/ATLAS/).
 	2. Модели:
 		1. **Классификация:** Logistic Regression, Random Forest, XGBoost. 
 		2. **Регрессия:** Linear Regression, Random Forest Regressor, Gradient Boosted Regressor.
