@@ -1,9 +1,9 @@
 ---
-Title: 
+Title: "{{Title}}"
 Link: "[Link]()"
-Year: 
-Observations: 
-Features: 
-Direction: 
+Year:
+Observations:
+Features:
+Direction:
 Reviewer:
 ---
