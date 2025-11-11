@@ -51,3 +51,12 @@
 - **Пакет/дашборд**:
     - Загрузка и подготовка данных → конструктор панелей counting-process → обучение выбранной модели → прогноз кривой риска для _(k+1)_-й госпитализации.
     - Дашборд: интерактивные KM-кривые по порядкам, k-step предсказания, доверительные интервалы, вклады признаков.
+
+**Статьи:**
+1. Counting Process Analysis: https://surpyval.readthedocs.io/en/latest/Recurrent%20Event%20Analysis.html#parametric-recurrent-event-models (+Models?)
+2. Deep Recurrent Survival Analysis (DRSA): https://github.com/rk2900/DRSA?tab=readme-ov-file (+Dataset)
+3. Random survival forests for the analysis of recurrent events: https://hal.science/hal-04612431/document
+4. Хорошая обзорная статья: https://link.springer.com/article/10.1007/s10479-020-03884-2
+5. Реализация в SAS: https://www.sfu.ca/sasdoc/sashtml/stat/chap49/sect40.htm
+6. [Modelling recurrent events: comparison of statistical models with continuous and discontinuous risk intervals on recurrent malaria episodes data](https://docviewer.360.yandex.ru/view/1130000061814789/?*=CpP%2FwbkD0XcfvdUuFY0TH7mnUip7InVybCI6Imh0dHBzOi8vaGFsLnNjaWVuY2UvaGFsLTAxMjA4MjEwL2RvY3VtZW50IiwidGl0bGUiOiJkb2N1bWVudCIsIm5vaWZyYW1lIjp0cnVlLCJ1aWQiOiIxMTMwMDAwMDYxODE0Nzg5IiwidHMiOjE3NjI4NDU1Mjg3MTIsInl1IjoiMTk0OTY2ODIwMTcwNzg1MTQwNiIsInNlcnBQYXJhbXMiOiJ0bT0xNzYyODQ1MTgzJnRsZD1ydSZsYW5nPWVuJm5hbWU9ZG9jdW1lbnQmdGV4dD1BbmRlcnNlbiVFMiU4MCU5M0dpbGwrJTI4QUclMjkrbW9kZWwmdXJsPWh0dHBzJTNBLy9oYWwuc2NpZW5jZS9oYWwtMDEyMDgyMTAvZG9jdW1lbnQmbHI9MjEzJm1pbWU9cGRmJmwxMG49cnUmc2lnbj0yMGNjYzM0MGJjMzFiMGYyMDA4MmI0Y2UyOWNhMjM5NyZrZXlubz0wJm5vc3c9MSJ9&amp;lang=en)
+7. Comparison of the **Andersen**-**Gill** **model** with poisson: https://dl.acm.org/doi/10.1016/j.csda.2008.04.009?cookieSet=1
