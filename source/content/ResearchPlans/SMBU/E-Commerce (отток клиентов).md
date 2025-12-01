@@ -60,3 +60,9 @@
 
 Итог:
 Для e-commerce **главное — перевод транзакционного лога в user-level «snapshots» по времени**: на каждый срез (например, каждый месяц или после каждой покупки) строим Recency, Frequency, Monetary, категории, динамику. Тогда survival-модель (CoxPH, RSF, DeepSurv) сможет оценить риск оттока или время до следующей покупки.
+
+
+- https://arxiv.org/pdf/2507.08860 (Вышла в этом году и как раз про анализ выживаемости в прогнозе оттока клиентов). У них есть репозиторий на github и там даже лежат интересные данные (
+- https://repositum.tuwien.at/bitstream/20.500.12708/213329/1/Lee%20Benjamin%20-%202025%20-%20Survival%20Analysis%20Model%20to%20Predict%20Customer%20Churn%20in%20the...pdf (магистерская работа). Большая работа, не обязательно читать всю.
+- https://sci-hub.se/10.1007/s11002-012-9207-0 (старая статья, но интересно посмотреть какие подходы применялись к AppStore).
+- https://vc.ru/marketing/613862-14-glavnyh-digital-metrik-i-kpi-dlya-marketologa?ysclid=mimyl9vyhf251903449 (не статья, а туториал по популярным digital-метрикам)
