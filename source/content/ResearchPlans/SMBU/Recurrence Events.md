@@ -22,7 +22,7 @@
 	3. **Калибровка во времени для recurrent events**: простая, воспроизводимая процедура проверки калибровки кривых кумулятивного риска в разрезе порядков события (1-е, 2-е, 3-е).
 3. Данные:
 	- **MIMIC-IV**. Позволяет построить последовательности госпитализаций на пациента, вычислить интервалы до повторной госпитализации и сформировать динамические признаки.
-	- Trucks from SCANIA: [source](https://researchdata.se/en/catalogue/dataset/2024-34) + [article](https://arxiv.org/html/2401.15199v1)
+	- Trucks from SCANIA: [source](https://researchdata.se/en/catalogue/dataset/2024-34) + [article](https://arxiv.org/html/2401.15199v1) (не подходит, нет разметки)
 	- Рецидивы преступлений: https://www.kaggle.com/datasets/danofer/compass?utm_source=chatgpt.com&select=cox-violent-parsed.csv (мало значимых признаков)
 	- National Hospital Discharge Survey dataset (описание https://www.johnsnowlabs.com/marketplace/initial-diagnosis-of-disease-by-age/): https://github.com/jackwasey/nhds?ysclid=mewvcirzum181775995 (GitHub)
 	- Подготовка данных:
