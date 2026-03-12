@@ -33,3 +33,11 @@
     - последовательные шаги развития
     - атрибуты и контекст
 Подходит для **long-term event evolution prediction** и моделирования цепочек событий.
+
+#### [Deep Recurrent Survival Analysis (DRSA)](https://github.com/songhwanjun/drsa/tree/367b63a31834e45d6b2db3379d19ea7d212268d6?tab=readme-ov-file#deep-recurrent-survival-analysis-drsa)
+- Ссылка на [статью](https://arxiv.org/pdf/1809.02403)
+- Много медицинских [наборов данных](https://hbiostat.org/data/)(support2csv.zip)
+- Набор музыкальных исполнителей 1. [lastfm-dataset-1K](https://github.com/eifuentes/lastfm-dataset-1K/tree/master): [preprocessing](https://github.com/eifuentes/lastfm-dataset-1K/blob/master/preprocessing.ipynb) - только исполнители и их песни с timestamp
+- bidding: [https://github.com/wnzhang/make-ipinyou-data](https://github.com/wnzhang/make-ipinyou-data) - странные признаки
+- SAS: https://psiaims.github.io/CAMIS/SAS/recurrent_events.html
+- https://arxiv.org/html/2503.23050v1 + [GitHub](https://github.com/TheeChris/hospital_readmission?tab=readme-ov-file) (MIMIC)
