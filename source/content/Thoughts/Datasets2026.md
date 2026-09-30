@@ -41,3 +41,5 @@
 - bidding: [https://github.com/wnzhang/make-ipinyou-data](https://github.com/wnzhang/make-ipinyou-data) - странные признаки
 - SAS: https://psiaims.github.io/CAMIS/SAS/recurrent_events.html
 - https://arxiv.org/html/2503.23050v1 + [GitHub](https://github.com/TheeChris/hospital_readmission?tab=readme-ov-file) (MIMIC)
+- [BHC_MIMIC-IV_SUMMARY](https://www.kaggle.com/datasets/aminexdr/bhc-mimic-iv-summary)
+- https://github.com/InduDwivedi/Prediction-of-breast-cancer-recurrence/blob/main/Finalbreastcancerprognostics.ipynb
